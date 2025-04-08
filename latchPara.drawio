@@ -331,7 +331,7 @@
           <mxGeometry x="7" y="247" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1f6SnXbmrZFH42KmdfTv-69" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;Pulse Width&amp;nbsp;&lt;/span&gt;&lt;i style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;W&amp;nbsp;&lt;/i&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;(Transparent)&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="128" y="165" width="70" height="16" as="geometry" />
+          <mxGeometry x="94" y="165" width="142" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
